@@ -3,6 +3,9 @@
 
 This repository contains a simulation of the Dynamic Window Approach (DWA) for mobile robot path planning. The simulation is implemented in Python using the `matplotlib` library for visualization.
 
+## GitHub Repository Link
+https://github.com/salamy999s/dwa
+
 ## Overview
 
 The Dynamic Window Approach is an online collision avoidance strategy for mobile robots. It considers the robot's dynamics and calculates the best velocity commands to reach a goal while avoiding obstacles.

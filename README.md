@@ -1,4 +1,3 @@
-# dwa
 
 # Dynamic Window Approach (DWA) Simulation
 
@@ -146,3 +145,5 @@ def run_simulation(goal, obstacles, params):
 3. Run the simulation:
 
     python3 run_simulation.py
+
+
